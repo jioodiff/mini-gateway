@@ -1,4 +1,8 @@
 # Mini Gateway
+
+![Minigateway8266](./minigateway.png)
+
+
 **Web-Configurable Dual-Mode IoT Gateway for ESP8266 (Wemos D1 Mini)**  
 Smart AP + STA Wi-Fi Node with JSON API, Dynamic Web Portal, and Persistent EEPROM Settings.
 
