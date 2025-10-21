@@ -1,7 +1,17 @@
+<!-- Social Preview Metadata -->
+<meta property="og:title" content="Mini Gateway — Web-Configurable IoT Gateway for ESP8266">
+<meta property="og:description" content="Smart dual-mode Wi-Fi gateway with JSON API, web dashboard, and DHCP scanner for Wemos D1 mini. Built with Arduino and ESP8266WebServer.">
+<meta property="og:image" content="https://raw.githubusercontent.com/sismadi/mini-gateway/main/docs/banner.png">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://github.com/sismadi/mini-gateway">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Banner -->
+<p align="center">
+  <img src="./minigateway.png" alt="Mini Gateway Banner">
+</p>
+
 # Mini Gateway
-
-![Minigateway8266](./minigateway.png)
-
 
 **Web-Configurable Dual-Mode IoT Gateway for ESP8266 (Wemos D1 Mini)**  
 Smart AP + STA Wi-Fi Node with JSON API, Dynamic Web Portal, and Persistent EEPROM Settings.
